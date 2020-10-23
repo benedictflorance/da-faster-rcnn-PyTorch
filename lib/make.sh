@@ -2,7 +2,7 @@
 
 # CUDA_PATH=/usr/local/cuda/
 
-export CUDA_PATH=/usr/local/cuda-9.1/
+export CUDA_PATH=/usr/local/cuda/
 export CXXFLAGS="-std=c++11"
 export CFLAGS="-std=c99"
 
